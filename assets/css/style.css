@@ -1,0 +1,22 @@
+
+.city {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  
+  .city h2 {
+    color: #333;
+    font-size: 24px;
+  }
+
+  .city p {
+    color: #666;
+    font-size: 16px;
+  }
+  
+ 
+ .citybtn{
+    background-color: #333;
+ }
